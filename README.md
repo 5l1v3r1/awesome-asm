@@ -128,6 +128,7 @@ External links
 * [GCC-Inline-Assembly-HOWTO](http://www.ibiblio.org/gferg/ldp/GCC-Inline-Assembly-HOWTO.html)
 * [Introductory Intel x86: Architecture, Assembly, Applications & Alliteration](http://opensecuritytraining.info/IntroX86.html)
 * [PC Assembly Language](http://pacman128.github.io/pcasm/)
+* [Programmming Community Curated Resources for Learning Assembly Language](https://hackr.io/tutorials/learn-assembly-language)
 
 ----------
 
