@@ -22,41 +22,19 @@ Assembler List
 
 Disassembler & Debuggers
 ----------
-* *[IDA PRO](https://www.hex-rays.com/products/ida/index.shtml)*
->32/64-bit proprietary software. [wiki](http://en.wikipedia.org/wiki/Interactive_Disassembler)
-
-* *[IDA Free](https://www.hex-rays.com/products/ida/support/download_freeware.shtml)* 
->The freeware version of IDA v5.0
-
-* *[OllyDbg](http://en.wikipedia.org/wiki/OllyDbg)*
->is an x86 debugger that emphasizes binary code analysis, which is useful when source code is not available. most popular!
-
-* *[x64_dbg](http://x64dbg.com/#start)*
->An open-source x64/x32 debugger for windows.
-
-* *[Visual DuxDebugger](http://www.duxcore.com/)*
->Visual DuxDebugger is a 64-bit debugger disassembler for Windows executables, especially useful when source code is unavailable. The user interface is very intuitive so it makes very simple any task in reverse.
-
-* *[Immunity Debugger](http://debugger.immunityinc.com/)*
->Immunity Debugger is a powerful new way to write exploits, analyze malware, and reverse engineer binary files. It builds on a solid user interface with function graphing, the industrys first heap analysis tool.
-
-* *[Hopper](http://www.hopperapp.com/)*
->Hopper is a binary disassembler, decompiler and debugger for 32bits and 64bits executables. Hopper can disassemble Mac (Intel 32/64), iOS (ARM/Intel), PE (PE32/32+/64) and ELF (Intel 32/64 and ARM). 
-
-* *[WinDbg](http://www.windbg.org/)*
->WinDbg is a multipurposed debugger for Microsoft Windows, distributed on the web by Microsoft as part of the Debugging Tools for Windows.
-
-* *Syser*
->Syser Kernel Debugger is designed for Windows NT Family based on X86 platform. It is a kernel debugger with full-graphical interfaces and supports assembly debugging and source code debugging.
-
-* *ILDASM*
->.NET Disassembler
-
-* *[Radare2](http://rada.re)*
->An open-source complete framework for reverse-engineering and analyzing binaries; composed of a set of small utilities that can be used together or independently from the command line.
-
-* *[Plasma](https://github.com/plasma-disassembler/plasma)*
->Plasma is an interactive disassembler for x86/ARM/MIPS. It can generates indented pseudo-code with colored syntax.
+| Name                 | Url                                                          |                                                         Desc |
+| -------------------- | :----------------------------------------------------------- | -----------------------------------------------------------: |
+| *IDA PRO*            | https://www.hex-rays.com/products/ida/index.shtml            | IDA is a Windows, Linux or Mac OS X hosted multi-processor disassembler and debugger that offers so many features it is hard to describe them all. |
+| *OllyDbg*            | <http://www.ollydbg.de>                                      | is an x86 debugger that emphasizes binary code analysis, which is useful when source code is not available. most popular! |
+| *x64_dbg*            | http://x64dbg.com/#start                                     |                 An open-source x64/x32 debugger for windows. |
+| *Visual DuxDebugger* | http://www.duxcore.com                                       | Visual DuxDebugger is a 64-bit debugger disassembler for Windows executables, especially useful when source code is unavailable. The user interface is very intuitive so it makes very simple any task in reverse. |
+| *Immunity Debugger*  | http://debugger.immunityinc.com                              | Immunity Debugger is a powerful new way to write exploits, analyze malware, and reverse engineer binary files. It builds on a solid user interface with function graphing, the industrys first heap analysis tool. |
+| *Hopper*             | http://www.hopperapp.com                                     | Hopper is a binary disassembler, decompiler and debugger for 32bits and 64bits executables. Hopper can disassemble Mac (Intel 32/64), iOS (ARM/Intel), PE (PE32/32+/64) and ELF (Intel 32/64 and ARM). |
+| *WinDbg*             | http://www.windbg.org                                        | WinDbg is a multipurposed debugger for Microsoft Windows, distributed on the web by Microsoft as part of the Debugging Tools for Windows. |
+| *Syser*              | <https://github.com/marakew/syser>                           | Syser Kernel Debugger is designed for Windows NT Family based on X86 platform. It is a kernel debugger with full-graphical interfaces and supports assembly debugging and source code debugging. |
+| *Radare2*            | http://rada.re                                               | An open-source complete framework for reverse-engineering and analyzing binaries; composed of a set of small utilities that can be used together or independently from the command line. |
+| *ILDASM*             | <https://docs.microsoft.com/en-us/dotnet/framework/tools/ildasm-exe-il-disassembler> |                                            .NET Disassembler |
+| ***dnSpy***          | <https://github.com/0xd4d/dnSpy>                             |                            .NET debugger and assembly editor |
 
 IDE
 ----------
