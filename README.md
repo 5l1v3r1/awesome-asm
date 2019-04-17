@@ -8,32 +8,17 @@ A curated list of awesome Assembler :)
 Assembler List
 ----------
 
-* *[Flat Assembler (FASM)](http://flatassembler.net/)*
->is a fast assembly language compiler for the x86 architecture processors, which does multiple passes to optimize the size of generated machine code
-
-* *[Microsoft Macro Assembler (MASM)](https://www.microsoft.com/en-us/download/details.aspx?id=12654)*
->is an x86 assembler that uses the Intel syntax for MS-DOS and Microsoft Windows
-
-* *[Netwide Assembler (NASM)](http://www.nasm.us/)*
->is an assembler and disassembler for the Intel x86 architecture
-
-* *[YASM](http://yasm.tortall.net/)*
->is an assembler and disassembler for the Intel x86 architecture. Yasm is a full rewrite of Netwide Assembler (NASM).
-
-* *[ILASM - IL Assembler](http://msdn.microsoft.com/en-us/library/496e4ekx%28v=VS.100%29.aspx)*
->ILAsm (IL Assembler) generates a portable executable (PE) file from Common Intermediate Language (CIL) code
-
-* *[PeachPy](https://github.com/Maratyszcza/PeachPy)*
->is an x86-64 assembler embedded in Python which targets high-performance computing audience. PeachPy can generate object files or assembly listings for Windows, Linux, Mac OS X, Native Client, and Go from the same source
-
-* *[FLASM](http://www.nowrap.de/flasm)*
->Flasm is a free command line assembler/disassembler of Flash ActionScript bytecode. It lets you make changes to any SWF. Flasm fully supports SWFs produced by Macromedia Flash 8 and earlier.
-
-* *[XEDParse](https://github.com/x64dbg/XEDParse)*
->XEDParse is an open source (LGPLv3) library for assembling single x86(-x64) instructions from text to bytes. Useful to integrate in reverse engineering frameworks to quickly assemble instructions.
-
-* *[HLA](http://www.plantation-productions.com/Webster/HighLevelAsm/index.html)*
->High Level Assembly (HLA) is an assembly language developed by Randall Hyde. It allows the use of higher-level language constructs to aid both beginners and advanced assembly developers. It fully supports advanced data types and object-oriented assembly language programming. It uses a syntax loosely based on several high-level languages (HLL), such as Pascal, Ada, Modula-2, and C++, to allow creating readable assembly language programs, and to allow HLL programmers to learn HLA as fast as possible.
+| Name                               | Url                                                          |                                                         Desc |
+| ---------------------------------- | :----------------------------------------------------------- | -----------------------------------------------------------: |
+| *Flat Assembler (FASM)*            | http://flatassembler.net/                                    | is a fast assembly language compiler for the x86 architecture processors, which does multiple passes to optimize the size of generated machine code |
+| *Microsoft Macro Assembler (MASM)* | https://www.microsoft.com/en-us/download/details.aspx?id=12654 | is an x86 assembler that uses the Intel syntax for MS-DOS and Microsoft Windows |
+| *Netwide Assembler (NASM)*         | http://www.nasm.us/                                          | is an assembler and disassembler for the Intel x86 architecture |
+| *YASM*                             | http://yasm.tortall.net/                                     | is an assembler and disassembler for the Intel x86 architecture. Yasm is a full rewrite of Netwide Assembler (NASM). |
+| *ILASM - IL Assembler*             | http://msdn.microsoft.com/en-us/library/496e4ekx%28v=VS.100%29.aspx | ILAsm (IL Assembler) generates a portable executable (PE) file from Common Intermediate Language (CIL) code |
+| *PeachPy*                          | https://github.com/Maratyszcza/PeachPy                       | is an x86-64 assembler embedded in Python which targets high-performance computing audience. PeachPy can generate object files or assembly listings for Windows, Linux, Mac OS X, Native Client, and Go from the same source |
+| *FLASM*                            | http://www.nowrap.de/flasm                                   | Flasm is a free command line assembler/disassembler of Flash ActionScript bytecode. It lets you make changes to any SWF. Flasm fully supports SWFs produced by Macromedia Flash 8 and earlier. |
+| *XEDParse*                         | https://github.com/x64dbg/XEDParse                           | XEDParse is an open source (LGPLv3) library for assembling single x86(-x64) instructions from text to bytes. Useful to integrate in reverse engineering frameworks to quickly assemble instructions. |
+| *HLA*                              | http://www.plantation-productions.com/Webster/HighLevelAsm/index.html | High Level Assembly (HLA) is an assembly language developed by Randall Hyde. It allows the use of higher-level language constructs to aid both beginners and advanced assembly developers. |
 
 Disassembler & Debuggers
 ----------
