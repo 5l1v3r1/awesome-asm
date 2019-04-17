@@ -38,27 +38,16 @@ Disassembler & Debuggers
 
 IDE
 ----------
+| Name                 | Url                                                          |                                                         Desc |
+| -------------------- | :----------------------------------------------------------- | -----------------------------------------------------------: |
+| *Visual Studio 20XX* | https://www.visualstudio.com                                 | Microsoft Visual Studio is an integrated development environment (IDE) from Microsoft. |
+| *RadASM*             | <http://oby.ro/rad_asm/)*>                                   | RadASM — a free Integrated development environment for Microsoft Windows originally designed for writing programs in assembly language. It has a flexible system of configuration files, and can be used to develop software in high-level programming languages and to author documents based on a markup language. It was created by the programmer Ketil Olsen (KetilO). |
+| *EasyCode*           | http://www.winasm.net                                        | WinAsm Studio is a free Integrated Development Environment IDE for developing 32-bit Windows and 16-bit DOS programs using the Assembler. |
+| *WinAsm Studio*      | http://www.duxcore.com                                       | Visual DuxDebugger is a 64-bit debugger disassembler for Windows executables, especially useful when source code is unavailable. The user interface is very intuitive so it makes very simple any task in reverse. |
+| *Visual MASM*        | http://www.visualmasm.com                                    |       IDE for MASM written in Delphi. What? It is dev brain. |
+| *MASM Builder*       | http://www.digitaction.com/index.php/products/masm-builder-integrated-development-environment-for-masm32.html | MASM Builder is a free Integrated Development Environment IDE for developing 32-bit Windows programs using the Assembler. MASM Builder contains many useful features which will assist you in creating Windows API based programs. |
+| *SASM*               | https://dman95.github.io/SASM                                | SASM (SimpleASM) - simple Open Source crossplatform IDE for NASM, MASM, GAS, FASM assembly languages. SASM has syntax highlighting and debugger. The program works out of the box and is great for beginners to learn assembly language. SASM is translated into Russian and English. Licensed under the GNU GPL v3.0. Based on the Qt. |
 
-* *[Visual Studio 20XX](https://www.visualstudio.com/)*
->Microsoft Visual Studio is an integrated development environment (IDE) from Microsoft.
-
-* *[RadASM](http://oby.ro/rad_asm/)*
->RadASM — a free Integrated development environment for Microsoft Windows originally designed for writing programs in assembly language. It has a flexible system of configuration files, and can be used to develop software in high-level programming languages and to author documents based on a markup language. It was created by the programmer Ketil Olsen (KetilO).
-
-* *[EasyCode](http://www.easycode.cat/)*
->Easy Code is the visual assembly programming environment made to build 32-bit Windows applications. The Easy Code interface, looking like Visual Basic, allows you to program Windows assembler applications (executable files, dynamic and static libreries, COFF object files, console applications, drivers and services) done in an easy way as was never possible before
-
-* *[WinAsm Studio](http://www.winasm.net/)*
->WinAsm Studio is a free Integrated Development Environment IDE for developing 32-bit Windows and 16-bit DOS programs using the Assembler.
-
-* *[Visual MASM](http://www.visualmasm.com/)*
->IDE for MASM written in Delphi. What? It is dev brain.
-
-* *[MASM Builder](http://www.digitaction.com/index.php/products/masm-builder-integrated-development-environment-for-masm32.html)*
->ASM Builder is a free Integrated Development Environment IDE for developing 32-bit Windows programs using the Assembler. MASM Builder contains many useful features which will assist you in creating Windows API based programs.
-
-* *[SASM](https://dman95.github.io/SASM/)*
->SASM (SimpleASM) - simple Open Source crossplatform IDE for NASM, MASM, GAS, FASM assembly languages. SASM has syntax highlighting and debugger. The program works out of the box and is great for beginners to learn assembly language. SASM is translated into Russian and English. Licensed under the GNU GPL v3.0. Based on the Qt.
 
 Books
 ----------
